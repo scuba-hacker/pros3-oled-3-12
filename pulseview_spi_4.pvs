@@ -1,0 +1,83 @@
+[General]
+decode_signals=0
+generated_signals=0
+meta_objs=1
+views=1
+
+[D0]
+color=4287584514
+conv_options=0
+conversion_type=0
+enabled=true
+name=D0 RST
+
+[D1]
+color=4284233062
+conv_options=0
+conversion_type=0
+enabled=true
+name=D1 DC
+
+[D2]
+color=4294277376
+conv_options=0
+conversion_type=0
+enabled=true
+name=D2 CS
+
+[D3]
+color=4294764879
+conv_options=0
+conversion_type=0
+enabled=true
+name=D3 CLK
+
+[D4]
+color=4280306311
+conv_options=0
+conversion_type=0
+enabled=true
+name=D4 MOSI
+
+[D5]
+color=4285780502
+conv_options=0
+conversion_type=0
+enabled=true
+name=D5
+
+[D6]
+color=4281623972
+conv_options=0
+conversion_type=0
+enabled=true
+name=D6
+
+[D7]
+color=4285878395
+conv_options=0
+conversion_type=0
+enabled=true
+name=D7
+
+[meta_obj0]
+assoc_view=0
+end_time=22 serialization::archive 20 0 0 0 0 1 91952756 63206463 15466483 25599591 8948533 0 0 0 6
+start_time=22 serialization::archive 20 0 0 0 0 1 67335024 99038835 59020670 30189783 73620484 0 0 0 6
+type=selection
+
+[view0]
+D0\trace_height=32
+D1\trace_height=32
+D2\trace_height=32
+D3\trace_height=32
+D4\trace_height=32
+D5\trace_height=32
+D6\trace_height=32
+D7\trace_height=32
+offset=22 serialization::archive 20 0 0 0 0 0 0 0 0 0 0 0 0 0 6
+scale=0.02294630564479119
+segment_display_mode=3
+splitter_state=@ByteArray(\0\0\0\xff\0\0\0\x1\0\0\0\x2\0\0\0i\0\0\b\x92\x1\0\0\0\x1\x1\0\0\0\x1\0)
+v_offset=-190
+zero_offset=22 serialization::archive 20 0 0 0 0 0 0 0 0 0 0 0 0 0 6
